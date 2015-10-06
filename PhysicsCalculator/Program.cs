@@ -10,6 +10,7 @@ namespace PhysicsCalculator
     {
         static void Main(string[] args)
         {
+            Values Calculator = new Values();
         }
     }
 }
