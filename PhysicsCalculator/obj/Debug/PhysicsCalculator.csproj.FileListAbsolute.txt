@@ -1,1 +1,7 @@
 E:\matfuck\ООП (Скращук)\PhysicsCalculator\PhysicsCalculator\bin\Debug\PhysicsCalculator.exe.config
+C:\Users\Андрей\Documents\GitHub\PhysicsCalculator\PhysicsCalculator\bin\Debug\PhysicsCalculator.exe.config
+C:\Users\Андрей\Documents\GitHub\PhysicsCalculator\PhysicsCalculator\bin\Debug\PhysicsCalculator.exe
+C:\Users\Андрей\Documents\GitHub\PhysicsCalculator\PhysicsCalculator\bin\Debug\PhysicsCalculator.pdb
+C:\Users\Андрей\Documents\GitHub\PhysicsCalculator\PhysicsCalculator\obj\Debug\PhysicsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\PhysicsCalculator\PhysicsCalculator\obj\Debug\PhysicsCalculator.exe
+C:\Users\Андрей\Documents\GitHub\PhysicsCalculator\PhysicsCalculator\obj\Debug\PhysicsCalculator.pdb
