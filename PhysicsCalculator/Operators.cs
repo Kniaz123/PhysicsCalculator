@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace PhysicsCalculator
 {
-    class Operators
+    public class Operators
     {
         public int Value;
         public string Type;
 
-        public Operators(int val, string mes)
+        public Operators(int v, string t)
         {
+            Value = v;
+            Type = t;
         }
 
         public static Operators operator + (Operators element1, Operators element2)
