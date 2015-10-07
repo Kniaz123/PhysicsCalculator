@@ -22,16 +22,16 @@ namespace PhysicsCalculator
             Calculator.DictionaryValue.Add("Time", "c");
 
             Operators qwe = Distance1 + Distance2;
-            Console.WriteLine(qwe.Value + Values.Search(qwe.Type));
+            Console.WriteLine(qwe.Value + Calculator.Search(qwe.Type));
 
             Operators qwe1 = Distance1 - Distance2;
-            Console.WriteLine(qwe1.Value + Values.Search(qwe.Type));
+            Console.WriteLine(qwe1.Value + Calculator.Search(qwe.Type));
 
             Operators NewDistance = Speed * Time;
-            Console.WriteLine(NewDistance.Value + Values.Search(NewDistance.Type));
+            Console.WriteLine(NewDistance.Value + Calculator.Search(NewDistance.Type));
 
             Operators NewSpeed = Distance1 / Speed;
-            Console.WriteLine(NewSpeed.Value + Values.Search(NewSpeed.Type));
+            Console.WriteLine(NewSpeed.Value + Calculator.Search(NewSpeed.Type));
 
         }
     }
